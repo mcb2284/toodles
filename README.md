@@ -4,11 +4,11 @@
 ---
 Toodles is a todo applicaiton.
 
-//TODO
+
 ## Getting Started
 ---
+//TODO
 
 ##Features
 ---
-
-
+//TODO
