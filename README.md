@@ -1,13 +1,11 @@
 # Toodles
 
-##Overview
+## Overview
 ---
 Toodles is a todo applicaiton.
 
-##Getting Started
----
+## Getting Started
 //TODO
 
-##Features
----
+## Features
 //TODO
